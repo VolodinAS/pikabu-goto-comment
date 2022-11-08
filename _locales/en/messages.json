@@ -1,0 +1,18 @@
+{
+    "main": {
+        "message": "PIKABU",
+        "description": "PIKABU"
+    },
+    "extTitle": {
+        "message": "Pikabu - Go to comment input",
+        "description": "Главный заголовок"
+    },
+    "extDesc": {
+        "message": "Creates a button under the post, by clicking on which you can go to the comment input field",
+        "description": "Description"
+    },
+    "noJquery": {
+        "message": "JQuery not loaded!",
+        "description": ""
+    }
+}
